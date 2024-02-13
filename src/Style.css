@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(/public/img/Star-Wars.jpg);
+}
+.container-lg{
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(/public/img/starwars.jpg);
+  height: 100vh;
+  opacity: 0.8;
+  border-radius: 20px;
+}
+ h1 {
+  margin: 12em;
+  padding: 10px;
+  background-color: aliceblue;
+  border-radius: 20px;
+  opacity: 0.6;
+}
+.card {
+  margin-top: 4em;
+}
+.card img{
+  height: 150px;
+}
